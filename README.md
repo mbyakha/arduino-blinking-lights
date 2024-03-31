@@ -1,6 +1,6 @@
-arduino-LED-blinking-lights
-This is the source code for arduino LED blinking light project
-The project consists of a connectios of 3 LED lights of different colors 
+arduino-LED-blinking-lights <br>
+This is the source code for arduino LED blinking light project<br>
+The project consists of a connectios of 3 LED lights of different colors <br>
 The bulb blinks at an interval of 2, 4, and 6 seconds.
 
 hardware components
